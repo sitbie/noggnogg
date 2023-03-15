@@ -1,0 +1,1 @@
+game:GetService(\"ReplicatedStorage\").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(\"Отдай сала!Верни сала пожалуйста!Сал а атдай!Пж!Верни!\", \"All\")
